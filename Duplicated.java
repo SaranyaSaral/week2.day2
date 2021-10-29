@@ -36,15 +36,7 @@ public class Duplicated {
 				System.out.println("it is same");
 			}
 			driver.close();
-		// String text = driver.findElement(By.xpath("//a[text()='FirstName']")).getText();
-		 //System.out.println(text);
-		 //driver.findElement(By.xpath("//a[text()='FName']")).click();
-		 //driver.findElement(By.linkText("Duplicate Lead")).click();
-		 //String title = driver.getTitle();
-		 //System.out.println(title);
-		 //driver.findElement(By.className("smallSubmit")).click();
-		 //String text2 = driver.findElement(By.id("viewLead_firstName_sp")).getText();
-		 //System.out.println(text2);
+		
 		 
 		 
 	}
